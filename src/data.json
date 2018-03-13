@@ -1,6 +1,7 @@
-[
+{
+  "items":[
   {
-    "_id": 1,
+    "_id": "1",
     "isActive": true,
     "image": "../public/images/pic1.jpg",
     "imageTitle":"Picture 1",
@@ -56,3 +57,5 @@
     "imageDesc": "Labore reprehenderit quis consectetur ad eiusmod aliquip. Irure voluptate aliqua culpa ut non non enim occaecat magna sunt esse sunt minim. Commodo labore laborum amet eiusmod deserunt ea ullamco sit sint excepteur. Proident adipisicing sit consequat duis. Aliqua anim non aliquip aute ut ea do reprehenderit cillum enim.\r\n"
   }
 ]
+
+}
